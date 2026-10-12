@@ -64,3 +64,5 @@ htmlkanaview = lambda x : RubyUnicode2Html(kanaview(x))
 ```
 
 아 ㅅㅂ 배포하기 귀찮아
+
+edit : 뭐가귀찮다는거야 미친넘아
